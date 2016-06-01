@@ -1,0 +1,86 @@
+#page_content{
+    font-family: Verdana, Geneva, sans-serif;
+    min-width: 1350px
+}
+
+a{
+    text-decoration: none;
+}
+
+#home, #animalList, #aboutUs{
+    margin-left: 5px;
+    margin-right: 10px;
+    color: #FFFFFF;
+}
+
+#login{
+    color: #FFFFFF;
+    float: right;
+}
+
+#banner {
+    border: 0px;
+    border-radius: 15px 50px;
+    background: #8F0C69;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 150px;
+}
+
+#side_banner {
+    border: 0px;
+    border-radius: 15px 50px;
+    background: #8F0C69;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 600px;
+    width: 200px;
+    float: right;
+    color: white;
+}
+
+#news_tag {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#Company_name {
+    color: #FFFFFF;
+}
+
+#site_links {
+    font-size: 22px;
+    padding-top: 30px;
+}
+
+#mainText {
+    float: left;
+    width: 80%;
+    margin-top: 5px;
+    border: 1px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+#login_area {
+    display: table;
+    margin: 0 auto;
+    width: 30%;
+    margin-top: 5px;
+    border: 1px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+#login_text{
+    margin: 10px;
+}
+
+
+
+
+
